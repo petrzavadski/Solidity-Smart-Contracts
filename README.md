@@ -1,6 +1,7 @@
 # Ethereum smart contracts
 
-Solidity backend programming and ethereum core concepts. Complete deceptralize application.
+`Solidity backend programming and ethereum core concepts.`
+`Complete deceptralize application.`
 
 ## Auction
 
