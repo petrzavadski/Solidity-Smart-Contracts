@@ -1,11 +1,18 @@
 # Ethereum smart contracts
 
-`Solidity backend programming and ethereum core concepts.
+`Solidity backend programming and ethereum core concepts.`
 
-Complete deceptralize application.`
+`Complete deceptralize application.`
 
 ## Auction
 
+- Any person who sells something is the owner of auction.
+- The auction are having owner , start and end date.
+- Major mission of owner is to start and finish auction after specific amount of time.
+- Anyone exclude owner can bid. The bidding is process of sending specific amount of ethereum that will be stored to mapping variable.
+- Contract will correct bid due to  maximum bid plus increment.
+- highestBindingBid is the selling price and highestBidder is the person who won the auction.
+-After the auction come to the end the owner gets highestBindingBid and others will get there bidding money back.
 
 ## Lottery
 
