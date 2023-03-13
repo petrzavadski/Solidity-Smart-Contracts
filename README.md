@@ -1,4 +1,4 @@
-# Ethereum smart contracts
+# Ethereum (Solidity) Smart Contracts 
 
 `Solidity backend programming and ethereum core concepts.`
 
