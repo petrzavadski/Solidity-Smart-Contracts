@@ -16,7 +16,7 @@
 
 ## Lottery
 
-- Organizer is collectiong mpney from players. And then randomly select player called winner that eventually getted rewarded and others are lossing there money.
+- Organizer is collectiong money from players. And then randomly select player called winner that eventually getted rewarded and others are lossing there money.
 - Anyone can send fix amount of ether (0.1 ETH) and this amount is saved in array called players. Like lottery ticket.
 - Each paticipant can try unlimited number times to increase probability to win. 
 - There is account that owns the loterry contract named lottery manager. 
